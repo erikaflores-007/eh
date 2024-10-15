@@ -1,63 +1,8 @@
-.body{
-    width: 100%;
-    height: 100%;
-    
+body{
+     background: linear-gradient(180deg, #FFCC99, #FF9900);
 }
-.contenedor{
-    border-bottom-style:groove;
-    width: 70%;
-    justify-content: center;
-    align-items: center;
-}
-.container{ 
-width: 70%;
-    height: 80%;
-
-}
-
-
-
-
-footer{
-    background: #5433FF;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #A5FECB, #20BDFF, #5433FF);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #A5FECB, #20BDFF, #5433FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-    background: ;
-    padding: 60px 0 30px 0;
-    margin: auto;
-    overflow: hidden;
-}
-
-.contenedor-footer{
-    
-    display: flex;
-    width: 90%;
-    justify-content: space-evenly;
-    margin: auto;
-    padding-bottom: 50px;
-    border-bottom: 1px solid #fff;
-}
-
-
-.contenedor-footer h4{
-    
-    color: #fff;
-    border-bottom: 3px solid #af20d3;
-    padding-bottom: 5px;
-    margin-bottom: 10px;
-    
-}
-.contenedor-foo p{
-    
-    color: #ccc;
-    
-}
-.titulo-final{
-    
-    text-align: center;
-    font-size: 24px;
-    margin: 20px 0 0 0;
-    color: #fff;
+.Contenedor{
+    margin:15%;
+    padding-left: 10%;
     
 }

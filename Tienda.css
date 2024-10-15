@@ -158,3 +158,6 @@ header{
 .btn-1:hover{
     background-color: #0f71cc;
 }
+img{
+    padding: 5px;
+}
